@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# CDK
+cdk.out/
+
+# TypeScript
+*.tsbuildinfo
+lib/
+dist/
+
+# AWS CLI / SDK
+.aws/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# IDE specific
+.idea/
+
+# Zip or installer files
+*.zip
+
+# Test / coverage outputs
+coverage/
+test-results/
+
+# Env files
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# Jest
+jest.config.js
